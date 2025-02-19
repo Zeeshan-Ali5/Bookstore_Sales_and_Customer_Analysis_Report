@@ -32,7 +32,7 @@ The project involved querying data from multiple CSV files, performing aggregati
  **Books.csv** – Dataset containing book details.  
  **Customers.csv** – Dataset containing customer information.  
  **Orders.csv** – Dataset containing order transactions.  
- **Project_1.sql** – SQL script with all analysis queries.  
+ **Bookstore_Data_Analysis_Report.sql** – SQL script with all analysis queries.  
  **Bookstore_Data_Analysis_Report.pdf** – 📑 Contains all SQL queries and answers to the analysis questions.  
 
  ⚡ **Key SQL Concepts Used**  
